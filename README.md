@@ -25,5 +25,6 @@ This project involves the **Analysis, Design and Implementation of a Relational 
   - Suggested improvements and critical reflections
 
 ## 📊 Grade
-**Grade Achieved Task1**: 🟢 **88%** 
+**Grade Achieved Task1**: 🟢 **88%**
+
 **Grade Achieved Task2**: 🟢 **89%** 
